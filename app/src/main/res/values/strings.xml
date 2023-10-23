@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeAlpha_Project_OnlineBookStore</string>
+    <string name="foreground">Foreground</string>
+    <string name="bookstore">BookStore</string>
+    <string name="login">Login</string>
+    <string name="continue_without_signup">Continue Without SignUp</string>
+    <string name="textview">TextView</string>
+</resources>
